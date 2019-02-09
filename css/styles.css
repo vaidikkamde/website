@@ -1,0 +1,230 @@
+h1 {
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  color: white;
+  line-height: 2;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.875rem;
+  padding-bottom: 0.625rem;
+  padding-top: 1.875;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Crimson Text', serif;
+  color: #11999E;
+  font-size: 1.3rem;
+}
+
+p {
+  padding-top: 0.625rem;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+hr {
+  border: none;
+  border-top: 0.3125rem dotted #333;
+  color: #333;
+  overflow: visible;
+  height: 0.3125rem;
+  width: 3.125rem;
+  margin: 1.25rem auto 1.875rem auto;
+}
+
+footer {
+  display: flex;
+  justify-content:flex-start;
+  padding: 0;
+  margin: 0;
+  background-color: #40514e;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #a0edf7;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: green;
+}
+
+.hi {
+  background-color: #f5f5f5;
+  border-radius: 100%;
+  height: 6.25rem;
+  width: 6.25rem;
+}
+.h1r{
+  margin:2.1875rem auto 1.875rem auto;
+}
+
+.mountain {
+  padding-top: 3.125rem;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  padding-bottom: 0.625rem;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+.title {
+  padding-top: 3.125rem;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 22%;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 22%
+}
+
+.top_contanier {
+  margin: 0;
+  background-color: #2f89fc;
+  position: relative;
+  padding-top: 3.125rem;
+}
+
+.middle_contanier {
+  margin: 0;
+  background-color: #a0edf7;
+  padding-top: 0.3125rem;
+  position: relative;
+  bottom: 0.4375rem;
+}
+
+.bottom_contanier {
+  margin: 0;
+  background-color: #2f89fc;
+  margin-top: 1.25rem;
+  position: relative;
+}
+.foot{
+  font-size: 0.6875rem;
+  font-family: serif;
+}
+.footer-link{
+  color: #f5f5f5;
+}
+.skill-row
+{
+  margin: 2.8125rem auto 2.8125rem auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.skill-row1
+{
+  margin: 2.8125rem auto 2.8125rem auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.code-img{
+  width: 18%;
+  border-radius:100%;
+  float: left;
+  margin-right: 1.875rem;
+}
+.gamepad-img{
+  width: 18%;
+  float: right;
+  margin-left: 1.875rem;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 1.25rem;
+  padding: 0.1875rem 0.4375rem 0.25rem 0.3125rem;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.mar{
+  margin: 0.625rem auto 1.875rem auto;
+  font-weight: bolder;
+
+}
+.footer-link{
+  margin: auto;
+  padding: 1.25rem;
+  padding-bottom: 0.625rem;
+  font-size: 0.75rem;
+  line-height: 2;
+}
+
+.intro{
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 0.625rem auto 1.25rem auto;
+}
+.app-brewery{
+  color: crimson;
+}
+.linkedin{
+  height: 2.1875rem;
+  width: 2.1875rem;
+}
+.twitter{
+  padding-top: 1.25rem;
+}
+.insta{
+  height: 2.1875rem;
+  width: 2.1875rem;
+}
+.skill{
+
+
+  margin: 0.625rem 0.625rem 1.125rem 0.625rem;
+}
+.copyright{
+  font-size: 0.625rem;
+}
+.contact-me{
+  width: 60%;
+  margin: 1.25rem auto 1.25rem auto;
+}
+.profile{
+  width: 70%;
+  margin: 1.125rem auto 1.25rem auto;
+
+}
+.bottom-links{
+  width: 50%;
+  margin: 0.625rem auto 0.625rem auto;
+}
+.skills{
+  position: relative;
+}
