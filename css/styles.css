@@ -205,7 +205,7 @@ a:hover{
   width: 2.1875rem;
 }
 .skill{
-  text-weight:bold;
+  font-weight: bold;
 
   margin: 0.625rem 0.625rem 1.125rem 0.625rem;
 }
