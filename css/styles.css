@@ -1,7 +1,7 @@
 h1 {
   margin: 0;
   font-family: 'Great Vibes', cursive;
-  font-size: 5.625rem;
+  font-size: 6.75vw;
   color: white;
   line-height: 2;
 }
@@ -9,7 +9,7 @@ h1 {
 h2 {
   margin: 0;
   font-family: 'Crimson Text', serif;
-  font-size: 1.875rem;
+  font-size: 2.25vw;
   padding-bottom: 0.625rem;
   padding-top: 1.875;
   font-weight: bolder;
@@ -125,13 +125,15 @@ a:hover{
 }
 .skill-row
 {
-  margin: 2.8125rem auto 2.8125rem auto;
+  margin-top: 2.8125rem;
+  margin-bottom:2.8125rem;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  margin: 2.8125rem auto 2.8125rem auto;
+  margin-top: 2.8125rem;
+  margin-bottom:2.8125rem;
   text-align: left;
   line-height: 1.5;
 }
@@ -227,4 +229,5 @@ a:hover{
 }
 .skills{
   position: relative;
+  width: 100%;
 }
